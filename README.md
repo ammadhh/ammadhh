@@ -2,7 +2,13 @@
 
 <!--
 **ammadhh/ammadhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ammadhassan1/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
