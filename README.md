@@ -9,7 +9,7 @@ I'm Ammad Hassan, a software engineer and passionate innovator based in Ann Arbo
 
 🚀 **Skills and Interests:**
 - **Technologies:** Expert in Python, Flask, ReactJS, and Linux system administration.
-- **Interests:** Avid cyclist (80 miles/week), GPU mining enthusiast, and a homelab hobbyist.
+- **Interests:** Avid cyclist (100 miles/week), GPU mining enthusiast, and a homelab hobbyist.
 
 🤝 **Collaboration:**
 - Open to collaborating on projects that enhance backend efficiencies or leverage machine learning for practical applications.
