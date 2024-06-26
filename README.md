@@ -25,8 +25,10 @@
 🔗 **Connect with Me:**
 - [LinkedIn](https://www.linkedin.com/in/ammadhassan1/) | [Strava](https://www.strava.com/athletes/53975495)
 
+<!-- Social icons section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Backend+and+Machine+Learning+Developer" alt="Typing SVG" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=500&lines=Back+End+and+Machine+Learning+Developer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
