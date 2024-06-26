@@ -16,12 +16,9 @@
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a multiplayer web game.
 - 🌱 I’m currently learning HPC compute for pytorch
 - 👯 I’m looking to collaborate on Gemini 1.5 API
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ethereum mining
 - 📫 How to reach me: Linkedin
 - ⚡ Fun fact: I love cycling
