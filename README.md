@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ammad Hassan, a software engineer and passionate innovator based in Grand Rapids, Michigan. My expertise spans backend development, machine learning, and a keen interest in high-performance computing, particularly for PyTorch. I’m currently exploring the intersection of AI and biking to create unique navigation solutions.
+I'm Ammad Hassan, a software engineer and passionate innovator based in Ann Arbor, Michigan. My expertise spans backend development, machine learning, and a keen interest in high-performance computing, particularly for PyTorch. I’m currently exploring the intersection of AI and biking to create unique navigation solutions.
 
 👨‍💻 **What I'm Up To:**
 - Developing a multiplayer web game that redefines user engagement.
