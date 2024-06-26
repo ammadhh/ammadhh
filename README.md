@@ -19,7 +19,7 @@ I'm Ammad Hassan, a software engineer and passionate innovator based in Ann Arbo
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/ammadhassan1/) or follow my cycling adventures on [Strava](https://www.strava.com/athletes/53975495).
 
 📝 **Fun Fact:**
-- I once managed a mining operation with over a hundred GPUs and now spend my weekends cycling through the scenic routes around Michigan.
+- I once managed a mining operation with over a hundred GPUs and now spend my weekends cycling through the scenic routes around the world!
 
 <!-- Social icons section -->
 <p align="center">
